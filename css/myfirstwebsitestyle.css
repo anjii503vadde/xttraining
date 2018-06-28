@@ -1,0 +1,12 @@
+body {
+    background-color: gray
+}
+div {
+    width: 800px;
+    margin: auto;
+}
+blockquote {
+    border: 2px solid white;
+    margin-left: 0;
+    text-align: center;
+}
