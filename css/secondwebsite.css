@@ -1,0 +1,40 @@
+body {
+    min-width: 200px;
+    width: 80%;
+    margin: auto;
+    background-color: gray;
+    
+    
+}
+header {
+    height: 15vh;
+    background-color:blue;
+}
+nav {  
+    height: 5vh;
+    background-color:beige;    
+}
+.left {
+    width: 20%;
+    float: left;
+    
+}
+.right {
+    width: 20%;
+    float: right;
+}
+aside {
+    height: 65vh;
+    background-color:chocolate;
+}
+main {    
+    float: left;
+    width: 60%;
+    height: 65vh; 
+    background-color:red;  
+}
+footer {
+    clear: both;
+    height: 15vh;
+    background-color:cadetblue;
+}
